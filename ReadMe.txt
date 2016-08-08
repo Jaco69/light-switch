@@ -1,2 +1,2 @@
 lichtaan.py uses ephem to calculate dusk and dawn and uses thoe times to switch off and on the lights.
-There are are also 'slaapuit' and 'wakkeraan' times which are used to switch off the lichts when sleeping during nicht time. 
+There are are also 'slaapuit' and 'wakkeraan' times which are used to switch off the lights when sleeping during nicht time. 
